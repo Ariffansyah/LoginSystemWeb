@@ -1,0 +1,27 @@
+.bgmain {
+    background-color: #222222;
+}
+.bgmain2 {
+    background-color: #232b2b;
+}
+.homenav {
+    height: calc(100vh - 64px);
+}
+
+@media screen and (max-width: 768px) {
+    .mobile {
+        flex-direction: column;
+    }
+    .mmobile {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .mobile {
+        flex-direction: row;
+    }
+    .mmobile {
+        margin-right: 20px;
+    }
+}

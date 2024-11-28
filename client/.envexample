@@ -1,0 +1,3 @@
+VITE_WEB_NAME = "WEBSITENAME"
+VITE_API_URL = http://yourAPIip:port
+VITE_MAILTRAP_TOKEN = your mailtrap token

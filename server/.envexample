@@ -1,0 +1,9 @@
+DB_USER: user
+DB_PASSWORD: password
+DB_HOST: localhost
+DB_PORT: portdb
+DB_NAME_ACCOUNTS: accounts name
+MAILTRAP_TOKEN: your mailtrap Token
+JWT_SECRET: enter your jwt secret
+CLIENT_URL: http://client side ip:port
+
